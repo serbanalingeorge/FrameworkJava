@@ -13,8 +13,8 @@ public class LoginPage extends PageBase {
     private static By passwordInput = get("LoginPage.passwordInput");
     private static By singInButton = get("LoginPage.singInButton");
 
-    private static String email = "serbangeorge.m@gmail.com";
-    private static String password = "smaG210290";
+    private static String email = "";
+    private static String password = "";
 
     private static final String TITLE = "LoginPage title";
 
